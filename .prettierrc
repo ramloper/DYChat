@@ -4,9 +4,7 @@
   "singleQuote": false,
   "trailingComma": "all",
   "bracketSpacing": true,
-  "jsxBracketSameLine": false,
   "arrowParens": "always",
   "endOfLine": "auto",
-  "plugins": ["prettier-plugin-tailwindcss"],
-  "tailwindCSS.classAttributes": ["class", "className", "ngClass"]
+  "plugins": ["prettier-plugin-tailwindcss"]
 }
